@@ -1,0 +1,4 @@
+.form {
+	width: 700px;
+	background-color: rgb(2, 104, 115); background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.07) 50%, transparent 50%), linear-gradient(90deg, rgba(255, 255, 255, 0.13) 50%, transparent 50%), linear-gradient(90deg, transparent 50%, rgba(255, 255, 255, 0.17) 50%), linear-gradient(90deg, transparent 50%, rgba(255, 255, 255, 0.19) 50%); background-size: 13px, 29px, 37px, 53px; --darkreader-inline-bgcolor:#004c57; --darkreader-inline-bgimage:linear-gradient(90deg, rgba(8, 11, 12, 0.07) 50%, rgba(0, 0, 0, 0) 50%), , linear-gradient(90deg, rgba(8, 11, 12, 0.13) 50%, rgba(0, 0, 0, 0) 50%), , linear-gradient(90deg, rgba(0, 0, 0, 0) 50%, rgba(8, 11, 12, 0.17) 50%), , linear-gradient(90deg, rgba(0, 0, 0, 0) 50%, rgba(8, 11, 12, 0.19) 50%);
+}
